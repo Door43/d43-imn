@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[imn:home|Door43 (imn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-imn|d43-imn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-imn/archive/master.zip|d43-imn.zip]]
+
+**Recent Changes**
+{{changes>ns = imn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/imn|Ethnologue data]]
+
